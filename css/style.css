@@ -7730,10 +7730,10 @@ Section Title
 }
 .project-block-three .info-box {
   position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   right: 20px;
   left: 20px;
-  min-height: 320px;
+  min-height: 100px;
   padding: 20px 25px;
   -webkit-transform: translateY(110%);
           transform: translateY(110%);
